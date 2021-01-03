@@ -8,3 +8,8 @@ git clone https://github.com/cleary/samples-flbass.git /path/to/samples-folder/f
 ```
 
 then restart supercollider
+
+##extra info
+Instrument: Maton JB4 Fretless Bass (P/J)
+Chain: Aguilar TH500 DI into Gen1 Focusrite Scarlett 8i8
+DAW: Ardour 5/Audacity, recorded dry
