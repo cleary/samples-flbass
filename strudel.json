@@ -1,22 +1,22 @@
 {
   "_base": "https://raw.githubusercontent.com/cleary/samples-flbass/main/",
-  "flbass": [
-            "00_c2_finger_long_neck.wav",
-            "01_c2_finger_short_neck.wav",
-            "02_c2_finger_long_bridge.wav",
-            "03_c2_finger_short_bridge.wav",
-            "04_c2_pick_long.wav",
-            "05_c2_pick_short.wav",
-            "06_c2_palm_mute.wav",
-            "07_c3_finger_long_neck.wav",
-            "08_c3_finger_short_neck.wav",
-            "09_c3_finger_long_bridge.wav",
-            "10_c3_finger_short_bridge.wav",
-            "11_c3_pick_long.wav",
-            "12_c3_pick_short.wav",
-            "13_c3_palm_mute.wav",
-            "14_c4_harmonic.wav",
-            "15_c6_harmonic.wav",
-            "16_ghost.wav"
-  ]
+  "flbass": {
+            "c2": "00_c2_finger_long_neck.wav",
+            "c2": "01_c2_finger_short_neck.wav",
+            "c2": "02_c2_finger_long_bridge.wav",
+            "c2": "03_c2_finger_short_bridge.wav",
+            "c2": "04_c2_pick_long.wav",
+            "c2": "05_c2_pick_short.wav",
+            "c2": "06_c2_palm_mute.wav",
+            "c3": "07_c3_finger_long_neck.wav",
+            "c3": "08_c3_finger_short_neck.wav",
+            "c3": "09_c3_finger_long_bridge.wav",
+            "c3": "10_c3_finger_short_bridge.wav",
+            "c3": "11_c3_pick_long.wav",
+            "c3": "12_c3_pick_short.wav",
+            "c3": "13_c3_palm_mute.wav",
+            "c4": "14_c4_harmonic.wav",
+            "c6": "15_c6_harmonic.wav",
+            "c6": "16_ghost.wav"
+  }
 }
